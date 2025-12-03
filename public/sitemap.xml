@@ -7,4 +7,19 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/videos/2026-startup-guide-ashm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/videos/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
