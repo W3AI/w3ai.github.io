@@ -1,1 +1,1 @@
-web's product builders network
+web resources, templates, tools

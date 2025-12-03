@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ash Maurya on w3ai</title>
+    <link>http://localhost:1313/tags/ash-maurya/</link>
+    <description>Recent content in Ash Maurya on w3ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ianta.labs@gmail.com (w3ai)</managingEditor>
+    <webMaster>ianta.labs@gmail.com (w3ai)</webMaster>
+    <copyright>© 2025 w3ai</copyright>
+    <lastBuildDate>Wed, 03 Dec 2025 10:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ash-maurya/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2026 Startup Guide - Ash Maurya</title>
+      <link>http://localhost:1313/videos/startup-guide-2026-ashm/</link>
+      <pubDate>Wed, 03 Dec 2025 10:00:00 +0000</pubDate>
+      <author>ianta.labs@gmail.com (w3ai)</author>
+      <guid>http://localhost:1313/videos/startup-guide-2026-ashm/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
