@@ -1,1 +1,1 @@
-web resources, templates, tools
+AI resources, templates, agents
